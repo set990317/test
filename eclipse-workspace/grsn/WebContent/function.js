@@ -16,7 +16,6 @@ var total_sales=sales_cheeseburger+sales_tomatoburger+sales_doubleburger+sales_k
 
 function sendSales(){
 	location.href="test.html?치즈버거: "+sales_cheeseburger;
-	gkgkgkgkgkkkadsflasdf
 }
 
 
